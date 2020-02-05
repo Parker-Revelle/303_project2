@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\pgrev\Desktop\Comp Sci\c++\Lab02-303\Lab02-303\Source.cpp(155,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab02-303.vcxproj -> C:\Users\pgrev\Desktop\Comp Sci\c++\Lab02-303\Debug\Lab02-303.exe
